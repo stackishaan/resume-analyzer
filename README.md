@@ -63,7 +63,7 @@ Set up the Next.js project, install all dependencies, write all the code, and ru
 
 ### Running Locally
 ```bash
-git clone https://github.com/Ayush-Vaishnav/resume-analyzer.git
+git clone https://github.com/stackishaan/resume-analyzer.git
 cd resume-analyzer
 npm install
 ```
